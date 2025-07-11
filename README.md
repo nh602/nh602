@@ -1,6 +1,6 @@
 # Hey there! I'm Nick Henley
 
-I'm a student at **The University of Colorado Boulder**, set to graduate in **May 2025**. I’m passionate about technology, particularly in the realms of **AI** and **cybersecurity**, and I’m currently on the lookout for opportunities to dive into these fields professionally.
+I'm a graduate from **The University of Colorado Boulder**. I’m passionate about technology, particularly in the realms of **AI** and **cybersecurity**, and I’m currently on the lookout for opportunities to dive into these fields professionally.
 
 ## What I’ve Been Up To
 I’ve had the privilege of working on some exciting projects, both with **Blueprint Boulder**, a student organization focused on building impactful solutions, and through my senior capstone. Here’s what I’ve done:
