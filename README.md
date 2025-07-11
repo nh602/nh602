@@ -16,8 +16,3 @@ In my free time, I love to:
 - **Read** – a chance to disconnect and step away from screens with a good book.
 - **Hike & Ski** – hitting the trails or slopes keeps me active and inspired.
 - **Unwind** – relaxing with video games or a solid TV series is my go-to downtime.
-
-## Let’s Connect!
-I’m excited to transition from student life to a career in **AI** or **cybersecurity**. If you’ve got opportunities, ideas, or just want to chat about tech, feel free to reach out! Find me here on GitHub or at [nicholashenley.com](https://nicholashenley.com).
-
----
