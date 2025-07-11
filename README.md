@@ -11,9 +11,6 @@ I’ve had the privilege of working on some exciting projects, both with **Bluep
 
 Check out the repos linked above to see what we’ve built!
 
-## My Tech Playground
-I’m proud of my **homelab**, where I tinker with **Proxmox containers** to host various services. I manage it remotely using the Proxmox web interface, which keeps things both fun and functional. Want to see more of my work? Visit my **portfolio website** hosted at [nicholashenley.com](https://nicholashenley.com), also available in my GitHub repos.
-
 ## When I’m Not Coding
 In my free time, I love to:
 - **Read** – a chance to disconnect and step away from screens with a good book.
